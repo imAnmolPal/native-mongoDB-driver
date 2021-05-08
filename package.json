@@ -1,0 +1,23 @@
+{
+  "name": "native-mongoDB-driver",
+  "version": "1.0.0",
+  "description": "Understanding the working of native mongoDB driver with NodeJS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imAnmolPal/native-mongoDB-driver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imAnmolPal/native-mongoDB-driver/issues"
+  },
+  "homepage": "https://github.com/imAnmolPal/native-mongoDB-driver#readme",
+  "dependencies": {
+    "mongodb": "^3.6.6"
+  }
+}
